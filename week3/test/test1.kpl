@@ -1,0 +1,6 @@
+Program Example2;
+Var n : Integer;
+
+Begin
+  If n >< 5 Then n := 1; (* Toán tử so sánh không hợp lệ *)
+End.
